@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b781e6d809172884ca495619c40de8a4
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scene_En_2.unity
+    guid: a28eb834ec57e9b41b28f4b1073ca423
+  - enabled: 1
+    path: Assets/Scenes/GameOver_En_2.unity
+    guid: 9087b226623db144ca8897857dd46cef
+  - enabled: 1
+    path: Assets/Scenes/GameOver_EnTab.unity
+    guid: ce65cabd01dd9614d912b8db5db6d8e9
+  - enabled: 1
+    path: Assets/Scenes/Scene_Tab1.unity
+    guid: 76897f2da3cb98a4793db465de91e784
+  - enabled: 1
+    path: Assets/Scenes/Scene_Tab2.unity
+    guid: e3bf435ce8936554caa2a9f98641a8e5
+  - enabled: 1
+    path: Assets/Scenes/Scene_Tab3.unity
+    guid: 5fe81086736ddfe418dcd8df82d4ddcc
+  - enabled: 1
+    path: Assets/Scenes/Scene_Ok.unity
+    guid: 3aa53fb26fb5c7e4b97f3ca563d57314
+  - enabled: 1
+    path: Assets/Scenes/SceneNOt.unity
+    guid: 0dcaa61967998294c9f6729f464e9834
+  - enabled: 1
+    path: Assets/Scenes/SceneWinCard.unity
+    guid: c3e29c1f340ee6149ac1f0d0d2a8be7f
+  - enabled: 1
+    path: Assets/Scenes/LoosCard.unity
+    guid: fc3984ed0c27fc243a1f33e96c98b870
+  - enabled: 1
+    path: Assets/Scenes/SceneFR_1.unity
+    guid: 997e8c361198dda43b4a59ed98a4206a
+  - enabled: 1
+    path: Assets/Scenes/FinFr_1.unity
+    guid: e983b093a06ec174791e08d78a48c485
+  - enabled: 1
+    path: Assets/Scenes/SceneFr_2.unity
+    guid: dd34923ae0301004fb2ef1881919c28c
+  - enabled: 1
+    path: Assets/Scenes/FinFr_2.unity
+    guid: 40894f51dc48a4d49948478078a194e7
+  - enabled: 1
+    path: Assets/Scenes/Table1_Fr.unity
+    guid: 14b45fb97a02de044a4a9ff5e75df3a1
+  - enabled: 1
+    path: Assets/Scenes/TableFr_2.unity
+    guid: ccaeff94b658cf046aa7d10b8bb5a7d2
+  - enabled: 1
+    path: Assets/Scenes/tableFr_3.unity
+    guid: cdfb7cb21b46ba5459f13e2bda009f33
+  - enabled: 1
+    path: Assets/Scenes/TOui_Fr.unity
+    guid: 427af317746abe548ac09f1138f432fd
+  - enabled: 1
+    path: Assets/Scenes/TNon_Fr.unity
+    guid: e05aa5b6f81fc884b8cee2c012b6930a
+  - enabled: 1
+    path: Assets/Scenes/TuGagnefr.unity
+    guid: 128189bd14a70b54aafb82d14aaa628b
+  - enabled: 1
+    path: Assets/Scenes/TuPerdFr.unity
+    guid: 06159adb5701a5448b2e63eac3df8276
+  m_configObjects: {}
